@@ -1,0 +1,5 @@
+D:\tleric academy\Homework\CSharp and .NET Differences\bin\Debug\CSharp_and.NET_Differences.exe.config
+D:\tleric academy\Homework\CSharp and .NET Differences\bin\Debug\CSharp_and.NET_Differences.exe
+D:\tleric academy\Homework\CSharp and .NET Differences\bin\Debug\CSharp_and.NET_Differences.pdb
+D:\tleric academy\Homework\CSharp and .NET Differences\obj\Debug\CSharp_and.NET_Differences.exe
+D:\tleric academy\Homework\CSharp and .NET Differences\obj\Debug\CSharp_and.NET_Differences.pdb

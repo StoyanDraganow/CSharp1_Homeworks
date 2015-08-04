@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe.config
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\13. Comparing Floats\obj\Debug\13. Comparing Floats.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\13. Comparing Floats\bin\Debug\_13.Comparing_Floats.pdb
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\13. Comparing Floats\obj\Debug\_13.Comparing_Floats.pdb

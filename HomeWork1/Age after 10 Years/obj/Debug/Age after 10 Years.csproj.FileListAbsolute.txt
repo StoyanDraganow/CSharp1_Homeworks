@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Age after 10 Years\bin\Debug\Age after 10 Years.exe.config
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Age after 10 Years\bin\Debug\Age after 10 Years.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Age after 10 Years\bin\Debug\Age after 10 Years.pdb
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Age after 10 Years\obj\Debug\Age after 10 Years.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Age after 10 Years\obj\Debug\Age after 10 Years.pdb

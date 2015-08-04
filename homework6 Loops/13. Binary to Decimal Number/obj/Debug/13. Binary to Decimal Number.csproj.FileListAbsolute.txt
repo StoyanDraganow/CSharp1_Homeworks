@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\izpit\homework6\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.exe.config
+C:\Users\stoya_000\Desktop\izpit\homework6\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.exe
+C:\Users\stoya_000\Desktop\izpit\homework6\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.pdb
+C:\Users\stoya_000\Desktop\izpit\homework6\13. Binary to Decimal Number\obj\Debug\13. Binary to Decimal Number.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\izpit\homework6\13. Binary to Decimal Number\obj\Debug\_13.Binary_to_Decimal_Number.exe
+C:\Users\stoya_000\Desktop\izpit\homework6\13. Binary to Decimal Number\obj\Debug\_13.Binary_to_Decimal_Number.pdb

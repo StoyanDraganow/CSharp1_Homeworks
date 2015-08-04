@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\9. Exchange Variable Values\bin\Debug\_9.Exchange_Variable_Values.exe.config
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\9. Exchange Variable Values\bin\Debug\_9.Exchange_Variable_Values.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\9. Exchange Variable Values\bin\Debug\_9.Exchange_Variable_Values.pdb
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\9. Exchange Variable Values\obj\Debug\_9.Exchange_Variable_Values.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\9. Exchange Variable Values\obj\Debug\_9.Exchange_Variable_Values.pdb

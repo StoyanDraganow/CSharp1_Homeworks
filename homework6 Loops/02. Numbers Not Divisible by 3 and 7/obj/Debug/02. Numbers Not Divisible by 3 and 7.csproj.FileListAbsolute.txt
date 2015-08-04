@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\izpit\homework6\02. Numbers Not Divisible by 3 and 7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe.config
+C:\Users\stoya_000\Desktop\izpit\homework6\02. Numbers Not Divisible by 3 and 7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\stoya_000\Desktop\izpit\homework6\02. Numbers Not Divisible by 3 and 7\bin\Debug\_02.Numbers_Not_Divisible_by_3_and_7.pdb
+C:\Users\stoya_000\Desktop\izpit\homework6\02. Numbers Not Divisible by 3 and 7\obj\Debug\02. Numbers Not Divisible by 3 and 7.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\izpit\homework6\02. Numbers Not Divisible by 3 and 7\obj\Debug\_02.Numbers_Not_Divisible_by_3_and_7.exe
+C:\Users\stoya_000\Desktop\izpit\homework6\02. Numbers Not Divisible by 3 and 7\obj\Debug\_02.Numbers_Not_Divisible_by_3_and_7.pdb

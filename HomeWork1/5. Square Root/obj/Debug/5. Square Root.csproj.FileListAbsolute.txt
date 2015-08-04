@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\tleric academy\Homework\5. Square Root\bin\Debug\_5.Square_Root.exe.config
+C:\Users\stoya_000\Desktop\tleric academy\Homework\5. Square Root\bin\Debug\_5.Square_Root.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\5. Square Root\bin\Debug\_5.Square_Root.pdb
+C:\Users\stoya_000\Desktop\tleric academy\Homework\5. Square Root\obj\Debug\_5.Square_Root.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\5. Square Root\obj\Debug\_5.Square_Root.pdb

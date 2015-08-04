@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\6. Strings and Objects\bin\Debug\_6.Strings_and_Objects.exe.config
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\6. Strings and Objects\bin\Debug\_6.Strings_and_Objects.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\6. Strings and Objects\bin\Debug\_6.Strings_and_Objects.pdb
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\6. Strings and Objects\obj\Debug\_6.Strings_and_Objects.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\6. Strings and Objects\obj\Debug\_6.Strings_and_Objects.pdb

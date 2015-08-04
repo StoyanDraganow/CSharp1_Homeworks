@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.exe.config
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\11. Bank Account Data\obj\Debug\11. Bank Account Data.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\11. Bank Account Data\bin\Debug\_11.Bank_Account_Data.pdb
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\11. Bank Account Data\obj\Debug\_11.Bank_Account_Data.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\11. Bank Account Data\obj\Debug\_11.Bank_Account_Data.pdb

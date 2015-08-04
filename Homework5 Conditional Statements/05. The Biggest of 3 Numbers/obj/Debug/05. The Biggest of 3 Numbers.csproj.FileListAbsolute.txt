@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\Homework5\Homework5\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe.config
+C:\Users\stoya_000\Desktop\Homework5\Homework5\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.exe
+C:\Users\stoya_000\Desktop\Homework5\Homework5\05. The Biggest of 3 Numbers\bin\Debug\_05.The_Biggest_of_3_Numbers.pdb
+C:\Users\stoya_000\Desktop\Homework5\Homework5\05. The Biggest of 3 Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.exe
+C:\Users\stoya_000\Desktop\Homework5\Homework5\05. The Biggest of 3 Numbers\obj\Debug\_05.The_Biggest_of_3_Numbers.pdb

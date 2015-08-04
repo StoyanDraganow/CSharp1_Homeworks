@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\5.Boolean Variable\bin\Debug\5.Boolean Variable.exe.config
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\5.Boolean Variable\bin\Debug\5.Boolean Variable.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\5.Boolean Variable\bin\Debug\5.Boolean Variable.pdb
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\5.Boolean Variable\obj\Debug\5.Boolean Variable.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\5.Boolean Variable\obj\Debug\5.Boolean Variable.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\5.Boolean Variable\obj\Debug\5.Boolean Variable.pdb

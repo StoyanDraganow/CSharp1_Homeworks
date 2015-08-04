@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\8. Isosceles Triangle\bin\Debug\_8.Isosceles_Triangle.exe.config
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\8. Isosceles Triangle\bin\Debug\_8.Isosceles_Triangle.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\8. Isosceles Triangle\bin\Debug\_8.Isosceles_Triangle.pdb
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\8. Isosceles Triangle\obj\Debug\8. Isosceles Triangle.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\8. Isosceles Triangle\obj\Debug\_8.Isosceles_Triangle.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\8. Isosceles Triangle\obj\Debug\_8.Isosceles_Triangle.pdb

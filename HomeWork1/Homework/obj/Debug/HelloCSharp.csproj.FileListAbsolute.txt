@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Homework\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Homework\obj\Debug\Homework.pdb

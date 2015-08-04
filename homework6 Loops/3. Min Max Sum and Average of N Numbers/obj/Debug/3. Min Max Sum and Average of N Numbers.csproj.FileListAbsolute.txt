@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\homework6\3. Min Max Sum and Average of N Numbers\bin\Debug\_3.Min_Max_Sum_and_Average_of_N_Numbers.exe.config
+C:\Users\stoya_000\Desktop\izpit\homework6\3. Min Max Sum and Average of N Numbers\bin\Debug\_3.Min_Max_Sum_and_Average_of_N_Numbers.exe
+C:\Users\stoya_000\Desktop\izpit\homework6\3. Min Max Sum and Average of N Numbers\bin\Debug\_3.Min_Max_Sum_and_Average_of_N_Numbers.pdb
+C:\Users\stoya_000\Desktop\izpit\homework6\3. Min Max Sum and Average of N Numbers\obj\Debug\_3.Min_Max_Sum_and_Average_of_N_Numbers.exe
+C:\Users\stoya_000\Desktop\izpit\homework6\3. Min Max Sum and Average of N Numbers\obj\Debug\_3.Min_Max_Sum_and_Average_of_N_Numbers.pdb

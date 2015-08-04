@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\tleric academy\Homework\4. Print First and Last Name\bin\Debug\_4.Print_First_and_Last_Name.exe.config
+C:\Users\stoya_000\Desktop\tleric academy\Homework\4. Print First and Last Name\bin\Debug\_4.Print_First_and_Last_Name.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\4. Print First and Last Name\bin\Debug\_4.Print_First_and_Last_Name.pdb
+C:\Users\stoya_000\Desktop\tleric academy\Homework\4. Print First and Last Name\obj\Debug\_4.Print_First_and_Last_Name.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\4. Print First and Last Name\obj\Debug\_4.Print_First_and_Last_Name.pdb

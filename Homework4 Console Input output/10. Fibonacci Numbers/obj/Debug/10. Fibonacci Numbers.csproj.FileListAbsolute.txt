@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\примери\Homework4\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.exe.config
+C:\Users\stoya_000\Desktop\примери\Homework4\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.exe
+C:\Users\stoya_000\Desktop\примери\Homework4\10. Fibonacci Numbers\bin\Debug\_10.Fibonacci_Numbers.pdb
+C:\Users\stoya_000\Desktop\примери\Homework4\10. Fibonacci Numbers\obj\Debug\_10.Fibonacci_Numbers.exe
+C:\Users\stoya_000\Desktop\примери\Homework4\10. Fibonacci Numbers\obj\Debug\_10.Fibonacci_Numbers.pdb

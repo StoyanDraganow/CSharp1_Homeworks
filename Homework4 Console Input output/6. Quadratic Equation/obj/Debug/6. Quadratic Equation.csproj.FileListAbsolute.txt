@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\примери\Homework4\6. Quadratic Equation\bin\Debug\_6.Quadratic_Equation.exe.config
+C:\Users\stoya_000\Desktop\примери\Homework4\6. Quadratic Equation\bin\Debug\_6.Quadratic_Equation.exe
+C:\Users\stoya_000\Desktop\примери\Homework4\6. Quadratic Equation\bin\Debug\_6.Quadratic_Equation.pdb
+C:\Users\stoya_000\Desktop\примери\Homework4\6. Quadratic Equation\obj\Debug\_6.Quadratic_Equation.exe
+C:\Users\stoya_000\Desktop\примери\Homework4\6. Quadratic Equation\obj\Debug\_6.Quadratic_Equation.pdb

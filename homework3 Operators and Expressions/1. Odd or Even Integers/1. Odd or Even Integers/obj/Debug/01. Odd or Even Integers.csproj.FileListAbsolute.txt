@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\homework3\1. Odd or Even Integers\1. Odd or Even Integers\bin\Debug\_1.Odd_or_Even_Integers.exe.config
+C:\Users\stoya_000\Desktop\homework3\1. Odd or Even Integers\1. Odd or Even Integers\bin\Debug\_1.Odd_or_Even_Integers.exe
+C:\Users\stoya_000\Desktop\homework3\1. Odd or Even Integers\1. Odd or Even Integers\bin\Debug\_1.Odd_or_Even_Integers.pdb
+C:\Users\stoya_000\Desktop\homework3\1. Odd or Even Integers\1. Odd or Even Integers\obj\Debug\01. Odd or Even Integers.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\homework3\1. Odd or Even Integers\1. Odd or Even Integers\obj\Debug\_1.Odd_or_Even_Integers.exe
+C:\Users\stoya_000\Desktop\homework3\1. Odd or Even Integers\1. Odd or Even Integers\obj\Debug\_1.Odd_or_Even_Integers.pdb

@@ -1,0 +1,6 @@
+D:\tleric academy\Homework\Development Environments\bin\Debug\Development Environments.exe.config
+D:\tleric academy\Homework\Development Environments\bin\Debug\Development Environments.exe
+D:\tleric academy\Homework\Development Environments\bin\Debug\Development Environments.pdb
+D:\tleric academy\Homework\Development Environments\obj\Debug\Development Environments.csprojResolveAssemblyReference.cache
+D:\tleric academy\Homework\Development Environments\obj\Debug\Development Environments.exe
+D:\tleric academy\Homework\Development Environments\obj\Debug\Development Environments.pdb

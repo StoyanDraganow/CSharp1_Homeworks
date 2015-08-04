@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\tleric academy\Homework\7.HoRRiblEcoDe\bin\Debug\7.HoRRiblEcoDe.exe.config
+C:\Users\stoya_000\Desktop\tleric academy\Homework\7.HoRRiblEcoDe\bin\Debug\7.HoRRiblEcoDe.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\7.HoRRiblEcoDe\bin\Debug\7.HoRRiblEcoDe.pdb
+C:\Users\stoya_000\Desktop\tleric academy\Homework\7.HoRRiblEcoDe\obj\Debug\7.HoRRiblEcoDe.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\7.HoRRiblEcoDe\obj\Debug\7.HoRRiblEcoDe.pdb

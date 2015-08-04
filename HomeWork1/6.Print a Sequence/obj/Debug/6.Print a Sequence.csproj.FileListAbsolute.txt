@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\tleric academy\Homework\6.Print a Sequence\bin\Debug\6.Print a Sequence.exe.config
+C:\Users\stoya_000\Desktop\tleric academy\Homework\6.Print a Sequence\obj\Debug\6.Print a Sequence.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\tleric academy\Homework\6.Print a Sequence\bin\Debug\6.Print a Sequence.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\6.Print a Sequence\bin\Debug\6.Print a Sequence.pdb
+C:\Users\stoya_000\Desktop\tleric academy\Homework\6.Print a Sequence\obj\Debug\6.Print a Sequence.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\6.Print a Sequence\obj\Debug\6.Print a Sequence.pdb

@@ -1,0 +1,8 @@
+C:\Users\stoya_000\Desktop\tleric academy\Homework\2. PrintMyName\bin\Debug\_2.PrintMyName.exe.config
+C:\Users\stoya_000\Desktop\tleric academy\Homework\2. PrintMyName\bin\Debug\_2.PrintMyName.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\2. PrintMyName\bin\Debug\_2.PrintMyName.pdb
+C:\Users\stoya_000\Desktop\tleric academy\Homework\2. PrintMyName\obj\Debug\_2.PrintMyName.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\2. PrintMyName\obj\Debug\_2.PrintMyName.pdb
+D:\tleric academy\Homework\2. PrintMyName\bin\Debug\_2.PrintMyName.exe.config
+D:\tleric academy\Homework\2. PrintMyName\obj\Debug\_2.PrintMyName.exe
+D:\tleric academy\Homework\2. PrintMyName\obj\Debug\_2.PrintMyName.pdb

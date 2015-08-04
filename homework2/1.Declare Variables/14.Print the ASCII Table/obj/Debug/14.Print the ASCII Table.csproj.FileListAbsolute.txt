@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\14.Print the ASCII Table\bin\Debug\14.Print the ASCII Table.exe.config
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\14.Print the ASCII Table\bin\Debug\14.Print the ASCII Table.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\14.Print the ASCII Table\bin\Debug\14.Print the ASCII Table.pdb
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\14.Print the ASCII Table\obj\Debug\14.Print the ASCII Table.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\14.Print the ASCII Table\obj\Debug\14.Print the ASCII Table.pdb

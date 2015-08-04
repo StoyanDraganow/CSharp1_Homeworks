@@ -1,0 +1,11 @@
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Homework\obj\Debug\Homework.pdb
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\stoya_000\Desktop\tleric academy\Homework\Homework\bin\Debug\Homework.pdb
+D:\tleric academy\Homework\Homework\bin\Debug\Homework.exe.config
+D:\tleric academy\Homework\Homework\obj\Debug\Homework.exe
+D:\tleric academy\Homework\Homework\obj\Debug\Homework.pdb
+C:\Users\stoya_000\Desktop\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\stoya_000\Desktop\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\stoya_000\Desktop\Homework\Homework\obj\Debug\Homework.pdb

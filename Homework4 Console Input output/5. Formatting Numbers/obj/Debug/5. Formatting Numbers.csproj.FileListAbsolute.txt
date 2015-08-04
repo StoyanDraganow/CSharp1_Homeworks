@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\примери\Homework4\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.exe.config
+C:\Users\stoya_000\Desktop\примери\Homework4\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.exe
+C:\Users\stoya_000\Desktop\примери\Homework4\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.pdb
+C:\Users\stoya_000\Desktop\примери\Homework4\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.exe
+C:\Users\stoya_000\Desktop\примери\Homework4\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.pdb

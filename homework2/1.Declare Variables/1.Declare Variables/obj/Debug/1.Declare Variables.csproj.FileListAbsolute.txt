@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\1.Declare Variables\bin\Debug\1.Declare Variables.exe.config
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\1.Declare Variables\bin\Debug\1.Declare Variables.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\1.Declare Variables\bin\Debug\1.Declare Variables.pdb
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\1.Declare Variables\obj\Debug\1.Declare Variables.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\1.Declare Variables\obj\Debug\1.Declare Variables.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\1.Declare Variables\obj\Debug\1.Declare Variables.pdb

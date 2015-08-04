@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\7. Quotes in Strings\bin\Debug\_7.Quotes_in_Strings.exe.config
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\7. Quotes in Strings\bin\Debug\_7.Quotes_in_Strings.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\7. Quotes in Strings\bin\Debug\_7.Quotes_in_Strings.pdb
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\7. Quotes in Strings\obj\Debug\_7.Quotes_in_Strings.exe
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\7. Quotes in Strings\obj\Debug\_7.Quotes_in_Strings.pdb
+C:\Users\stoya_000\Desktop\homework2\1.Declare Variables\7. Quotes in Strings\obj\Debug\7. Quotes in Strings.csprojResolveAssemblyReference.cache
